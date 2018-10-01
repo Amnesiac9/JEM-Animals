@@ -18,12 +18,14 @@ Defs\ThingDefs_Races\Races_Animal_Pet.xml
 
 
 Yorkshire Terrier
+
       <baseHungerRate>0.30</baseHungerRate>
       <baseHungerRate>0.20</baseHungerRate>
 
 	  
 	  
 Husky (Use to have more hunger than a bear)
+
       <baseHungerRate>0.5</baseHungerRate>
       <baseHungerRate>0.25</baseHungerRate>
 
