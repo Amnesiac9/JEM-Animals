@@ -490,12 +490,12 @@
     </tools>
     <race>
       <body>QuadrupedAnimalWithPawsAndTail</body>
-      <baseBodySize>0.21</baseBodySize>
+      <baseBodySize>0.11</baseBodySize>
       <baseHealthScale>0.4</baseHealthScale>
-			<baseHungerRate>0.30</baseHungerRate>
+			<baseHungerRate>0.05</baseHungerRate>
 			<foodType>VegetarianRoughAnimal</foodType>
       <leatherDef>Leather_Chinchilla</leatherDef>
-      <wildness>0.60</wildness>
+      <wildness>0.50</wildness>
       <trainability>Intermediate</trainability>
       <petness>0.20</petness>
       <mateMtbHours>8</mateMtbHours>

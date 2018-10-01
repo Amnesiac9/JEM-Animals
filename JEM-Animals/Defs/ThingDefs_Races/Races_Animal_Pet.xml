@@ -55,7 +55,7 @@
       <body>QuadrupedAnimalWithPawsAndTail</body>
       <petness>1</petness>
       <baseBodySize>0.3</baseBodySize>
-      <baseHungerRate>0.30</baseHungerRate>
+      <baseHungerRate>0.20</baseHungerRate>
       <baseHealthScale>0.4</baseHealthScale>
       <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
       <leatherDef>Leather_Dog</leatherDef>
@@ -218,7 +218,7 @@
       <body>QuadrupedAnimalWithPawsAndTail</body>
       <petness>1</petness>
       <baseBodySize>0.86</baseBodySize>
-      <baseHungerRate>0.5</baseHungerRate>
+      <baseHungerRate>0.25</baseHungerRate>
       <baseHealthScale>1.05</baseHealthScale>
       <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
       <leatherDef>Leather_Dog</leatherDef>
@@ -377,7 +377,7 @@
       <body>QuadrupedAnimalWithPawsAndTail</body>
       <petness>1</petness>
       <baseBodySize>0.75</baseBodySize>
-      <baseHungerRate>0.4</baseHungerRate>
+      <baseHungerRate>0.24</baseHungerRate>
       <baseHealthScale>1.0</baseHealthScale>
       <foodType>OmnivoreAnimal, OvivoreAnimal</foodType>
       <leatherDef>Leather_Dog</leatherDef>
