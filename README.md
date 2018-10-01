@@ -32,6 +32,7 @@ Husky (Use to have more hunger than a bear)
 	  
 	  
 Lab 
+
       <baseHungerRate>0.4</baseHungerRate>
 
 	  
