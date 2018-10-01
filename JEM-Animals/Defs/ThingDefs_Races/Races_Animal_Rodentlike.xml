@@ -490,9 +490,9 @@
     </tools>
     <race>
       <body>QuadrupedAnimalWithPawsAndTail</body>
-      <baseBodySize>0.11</baseBodySize>
+      <baseBodySize>0.02</baseBodySize>
       <baseHealthScale>0.4</baseHealthScale>
-			<baseHungerRate>0.05</baseHungerRate>
+			<baseHungerRate>0.02</baseHungerRate>
 			<foodType>VegetarianRoughAnimal</foodType>
       <leatherDef>Leather_Chinchilla</leatherDef>
       <wildness>0.50</wildness>

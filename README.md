@@ -2,13 +2,16 @@
 
 \Defs\ThingDefs_Races\Races_Animal_Rodentlike.xml
 
+Petness and Bodysize effect Filthrate
+Bodysize effects weight
+
 Chinchilla Changes
 
       <baseBodySize>0.21</baseBodySize>
-      <baseBodySize>0.11</baseBodySize>
+      <baseBodySize>0.02</baseBodySize> - Now actually realistic weight 
 	  
 			<baseHungerRate>0.30</baseHungerRate>
-			<baseHungerRate>0.05</baseHungerRate>
+			<baseHungerRate>0.02</baseHungerRate> - Higher than a cat still LOL
 
       <wildness>0.60</wildness>
       <wildness>0.50</wildness>
