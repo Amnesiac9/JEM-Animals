@@ -16,6 +16,9 @@ Chinchilla Changes
       <wildness>0.60</wildness>
       <wildness>0.50</wildness>
 	  
+	  <lifeExpectancy>9</lifeExpectancy>
+      <lifeExpectancy>10</lifeExpectancy> - Life expectancy in captivity is actually like 15-20 years
+	  
 	  
 Defs\ThingDefs_Races\Races_Animal_Pet.xml
 
