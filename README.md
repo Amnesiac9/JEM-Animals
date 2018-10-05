@@ -19,6 +19,9 @@ Chinchilla Changes
 	  <lifeExpectancy>9</lifeExpectancy>
       <lifeExpectancy>10</lifeExpectancy> - Life expectancy in captivity is actually like 15-20 years
 	  
+	  <petness>0.20</petness>
+      <petness>1</petness> - Come on, chinchilla filth rate more than a dog? hmmm
+	  
 	  
 Defs\ThingDefs_Races\Races_Animal_Pet.xml
 

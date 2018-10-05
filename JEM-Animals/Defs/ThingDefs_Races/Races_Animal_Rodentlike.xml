@@ -497,7 +497,7 @@
       <leatherDef>Leather_Chinchilla</leatherDef>
       <wildness>0.50</wildness>
       <trainability>Intermediate</trainability>
-      <petness>0.20</petness>
+      <petness>1</petness>
       <mateMtbHours>8</mateMtbHours>
       <nuzzleMtbHours>48</nuzzleMtbHours>
       <gestationPeriodDays>14</gestationPeriodDays>
