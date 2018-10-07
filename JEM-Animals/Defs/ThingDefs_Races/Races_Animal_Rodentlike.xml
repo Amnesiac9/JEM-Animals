@@ -490,7 +490,7 @@
     </tools>
     <race>
       <body>QuadrupedAnimalWithPawsAndTail</body>
-      <baseBodySize>0.02</baseBodySize>
+      <baseBodySize>0.21</baseBodySize>
       <baseHealthScale>0.4</baseHealthScale>
 			<baseHungerRate>0.02</baseHungerRate>
 			<foodType>VegetarianRoughAnimal</foodType>
