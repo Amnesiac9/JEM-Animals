@@ -3,7 +3,9 @@
 <ModMetaData>
 	<name>JEM Animals</name>
 	<author>Amnesiac</author>
-	<supportedVersions>1.0</supportedVersions>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
 	<description>
     This mod changes Tamable Animals to be more realistic and balanced.
 	</description>
