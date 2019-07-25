@@ -4,5 +4,5 @@
     <version>1.0.2</version>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://github.com/Amnesiac9/JEM-Animals/blob/master/JEM-Animals/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/Amnesiac9/JEM-Animals/releases</downloadUri>
+    <downloadUri>https://github.com/Amnesiac9/JEM-Animals/releases/latest</downloadUri>
 </Manifest>
