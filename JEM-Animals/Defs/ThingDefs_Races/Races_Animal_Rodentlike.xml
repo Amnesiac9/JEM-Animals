@@ -492,10 +492,10 @@
       <body>QuadrupedAnimalWithPawsAndTail</body>
       <baseBodySize>0.21</baseBodySize>
       <baseHealthScale>0.4</baseHealthScale>
-			<baseHungerRate>0.02</baseHungerRate>
+			<baseHungerRate>0.30</baseHungerRate>
 			<foodType>VegetarianRoughAnimal</foodType>
       <leatherDef>Leather_Chinchilla</leatherDef>
-      <wildness>0.50</wildness>
+      <wildness>0.40</wildness>
       <trainability>Intermediate</trainability>
       <petness>1</petness>
       <mateMtbHours>8</mateMtbHours>
@@ -511,7 +511,7 @@
           <li>(3, 0)</li>
         </points>
       </litterSizeCurve>
-      <lifeExpectancy>10</lifeExpectancy>
+      <lifeExpectancy>9</lifeExpectancy>
       <lifeStageAges>
         <li>
           <def>AnimalBaby</def>
